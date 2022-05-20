@@ -1,3 +1,12 @@
+# Neena Tilton Portfolio Website
+ 
+## About
+This is my porfolio website. To view the live website, click [here](https://tiltonneena.github.io/portfolio/).
+
+## References
+Website template accessed on html5up.com 
+
+Template info:
 Strata by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
